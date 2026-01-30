@@ -1,3 +1,3 @@
-# NNPTUD-S2
-Lớp NNPTUD-Sáng t2
-Mỗi ngày 1 nhánh
+#NNTPUD
+BTVN_26-01-2026
+Nguyễn Quang Thành_2280602948
